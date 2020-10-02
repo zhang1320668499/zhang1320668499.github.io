@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>数据未来</title>
+  <title>技术成长</title>
   
-  <subtitle>一个正在学习路上的程序猿</subtitle>
+  <subtitle>点滴积累</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zch.ink/"/>
